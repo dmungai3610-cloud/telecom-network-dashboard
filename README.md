@@ -1,1 +1,3 @@
-# telecom-network-dashboard
+# Telecom Network Dashboard
+
+Project scaffold.
